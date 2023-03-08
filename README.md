@@ -1,6 +1,6 @@
 # Traitor
 
-Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made VeryEasy!
+Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made HARD!
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
@@ -9,11 +9,12 @@ Traitor packages up a bunch of methods to exploit local misconfigurations and vu
 - CVE-2021-4034 (pwnkit)
 - CVE-2021-3560
 
-![Demo](REAL.gif)
+
+![Demo](qwerty.gif)
 
 It'll exploit most sudo privileges listed in GTFOBins to pop a root shell, as well as exploiting issues like a writable `docker.sock`, or the recent dirty pipe (CVE-2022-0847). More routes to root will be added over time too.
 
-## WhAt!
+## Usage asdqwezxc
 
 Run with no arguments to find potential vulnerabilities/misconfigurations which could allow privilege escalation. Add the `-p` flag if the current user password is known. The password will be requested if it's needed to analyse sudo permissions etc.
 
