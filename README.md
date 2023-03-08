@@ -2,6 +2,7 @@
 
 thats first-_-
 thats second-_-
+thats third
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made HARD!
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
